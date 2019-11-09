@@ -1,8 +1,5 @@
-import React from "react"
-import { Link } from "gatsby"
+import React from "react";
 
-const IndexPage = () => (
-  <div>Hello World</div>
-)
+const IndexPage = () => <div>Hello World</div>;
 
-export default IndexPage
+export default IndexPage;
